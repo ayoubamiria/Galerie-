@@ -3,13 +3,14 @@ from PIL import Image, UnidentifiedImageError
 
 # Dictionnaire de correspondance des noms de catégories (si nécessaire)
 category_mapping = {
-    'clothes': 'apparel',
+   'food': 'nourriture',
+'vehicle': 'vehicule',
     'documents': 'documents',
     'fashion': 'fashion'
 }
 
 
-def preprocess_images(input_dir, output_dir, size=(32, 32)):
+def preprocess_images(input_dir, output_dir, size=(128, 128)):
     # Parcourir chaque catégorie dans le dossier d'entrée
     for category in os.listdir(input_dir):
         category_path = os.path.join(input_dir, category)
