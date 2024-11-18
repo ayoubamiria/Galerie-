@@ -16,7 +16,7 @@ loaded_model.compile(
 )
 
 # Path to the test dataset
-test_dataset_path = "C:/Users/Medta/Galerie/Galerie-/test_dataset"
+test_dataset_path = "C:/Users/Medta/Galerie/Galerie-/test_dataset" #changer le path (generaliser)
 
 # Load the test dataset with the correct image size
 test_dataset = image_dataset_from_directory(
