@@ -85,6 +85,6 @@ python app.py
 We’re passionate about making image classification and organization accessible for everyone.  
 Feel free to connect, contribute, or share feedback!  
 
-📩 **Contact us** via [LinkedIn](https://www.linkedin.com/in/ayoub-amiria/) or [LinkedIn](https://www.linkedin.com/in/mohamed-taieb/), or create an issue in this repository.  
+📩 **Contact us** via [Ayoub](https://www.linkedin.com/in/ayoub-amiria/) or [Mohamed](https://www.linkedin.com/in/mohamed-taieb/), or create an issue in this repository.  
 
 ---
