@@ -78,6 +78,8 @@ pip install -r requirements.txt
 
 # Run the project
 python app.py
+
+````
 ## 🌐 Let's Collaborate!  
 
 We’re passionate about making image classification and organization accessible for everyone.  
