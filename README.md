@@ -23,6 +23,22 @@ This project leverages **Deep Learning** to efficiently **classify, organize, an
 _Showcasing the classification and organization in action!_
 
 ---
+## 🎯 Team  
+
+👨‍💻 **Ayoub Amiria**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayoub-amiria/)  
+
+👨‍💻 **Mohamed Taieb**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-taieb/)  
+
+---
+
+
+
+## ❤️ Acknowledgments  
+
+Special thanks to **PyTorch**, **ResNet**, and the **open-source community** for their incredible tools and resources.  
+
 
 ## 🚀 How It Works  
 
@@ -62,4 +78,11 @@ pip install -r requirements.txt
 
 # Run the project
 python app.py
+## 🌐 Let's Collaborate!  
 
+We’re passionate about making image classification and organization accessible for everyone.  
+Feel free to connect, contribute, or share feedback!  
+
+📩 **Contact us** via [LinkedIn](https://www.linkedin.com/in/ayoub-amiria/) or [LinkedIn](https://www.linkedin.com/in/mohamed-taieb/), or create an issue in this repository.  
+
+---
