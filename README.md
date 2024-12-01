@@ -1,4 +1,4 @@
-# Galerie-
+# Glassify
 # 🌟 Image Organizer & Classifier 🔍
 
 Welcome to the **Image Organizer & Classifier** repository! 🚀  
