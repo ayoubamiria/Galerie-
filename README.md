@@ -29,6 +29,7 @@ _Showcasing the classification and organization in action!_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayoub-amiria/)  
 Email : Amiriaayoub@gmail.com
+
 👨‍💻 **Mohamed Taieb**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-taieb/)  
